@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HelloWorldWriter",
+            "request": "launch",
+            "mainClass": "com.smukkidi.app.HelloWorldWriter",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "HelloworldWriter",
+            "request": "launch",
+            "mainClass": "com.smukkidi.app.HelloworldWriter",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
