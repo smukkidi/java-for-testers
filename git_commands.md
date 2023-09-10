@@ -5,10 +5,10 @@
 It might happen that you are working on your regular day-to-day coding. You create a new branch, 
 make some commits and then after doing git push you get this error:
 
-<kbd>Error: fatal: The current branch "<branchname>" has no upstream branch.<kbd>
-<kbd>To push the current branch and set the remote as upstream, use <kbd>
+<kbd>Error: fatal: The current branch **BRANCH-NAME** has no upstream branch.<kbd>
+To push the current branch and set the remote as upstream, use
 
-<kbd>git push --set-upstream origin "<branchname>"  <kbd>
+git push --set-upstream origin **BRANCH-NAME**  <kbd>
 
 # Solving the this issue
 
