@@ -25,7 +25,7 @@ public class VariablesInJava{
       boolean myBool = true; System.out.println(myBool);
 
       System.out.println("*********************");
-      System.out.println();
+      System.out.println("***");
 
     }
     
