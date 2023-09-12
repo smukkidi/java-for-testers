@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "o003_CommandLineArgument",
+            "request": "launch",
+            "mainClass": "com.javaprograms100.o003_CommandLineArgument",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PrintIntegersOnetoTen",
+            "request": "launch",
+            "mainClass": "com.javaprograms100.PrintIntegersOnetoTen",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "o001_HelloWorld",
+            "request": "launch",
+            "mainClass": "com.javaprograms100.o001_HelloWorld",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "o001_HelloWorls",
+            "request": "launch",
+            "mainClass": "com.javaprograms100.o001_HelloWorls",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
