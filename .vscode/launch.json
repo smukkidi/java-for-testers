@@ -3,10 +3,34 @@
         {
             "type": "java",
 <<<<<<< HEAD
+            "name": "MainAnimalTest_copy",
+            "request": "launch",
+            "mainClass": "com.smukkidi.polimorpism.unittestingruntime.MainAnimalTest_copy",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "MainAnimalTest",
+            "request": "launch",
+            "mainClass": "com.smukkidi.polimorpism.unittestingruntime.MainAnimalTest",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "MainAreaCalculator",
+            "request": "launch",
+            "mainClass": "com.smukkidi.polimorpism.unittestcompiletime.MainAreaCalculator",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+=======
+<<<<<<< HEAD
             "name": "VariablesInJava",
             "request": "launch",
             "mainClass": "com.smukkidi.javavariables.VariablesInJava",
 =======
+>>>>>>> main
             "name": "HelloWorldWriter",
             "request": "launch",
             "mainClass": "com.smukkidi.app.HelloWorldWriter",
