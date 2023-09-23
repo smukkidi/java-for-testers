@@ -12,9 +12,10 @@ git push --set-upstream origin **BRANCH-NAME**<kbd>
 # Solving the this issue
 
 There are many ways to solve issue. One of them would be to just follow the instructions above.
-
+<pre>
 <kbd> git config --global push.default current <kbd>
 
 then
 
 <kbd> git push <kbd>
+</pre>
