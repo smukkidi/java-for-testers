@@ -8,7 +8,7 @@ make some commits and then after doing git push you get this error:
   <code>
     # Error: fatal: The current branch **BRANCH-NAME** has no upstream branch.
     # To push the current branch and set the remote as upstream, use
-    $ git push --set-upstream origin BRANCH-NAME
+    $ git push --set-upstream origin BRANCH_NAME
   </code>
 </pre>
 # Solving the this issue
