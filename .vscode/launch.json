@@ -2,35 +2,42 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
-            "name": "MainAnimalTest_copy",
+
+            "name": "ReverseWords",
             "request": "launch",
-            "mainClass": "com.smukkidi.polimorpism.unittestingruntime.MainAnimalTest_copy",
+            "mainClass": "com.smukkidi.stringInterview.ReverseWords",
             "projectName": "my-app"
         },
         {
             "type": "java",
-            "name": "MainAnimalTest",
+            "name": "MultilineLambdaExpression",
             "request": "launch",
-            "mainClass": "com.smukkidi.polimorpism.unittestingruntime.MainAnimalTest",
+            "mainClass": "com.smukkiditest.MultilineLambdaExpression",
             "projectName": "my-app"
         },
         {
             "type": "java",
-            "name": "MainAreaCalculator",
+            "name": "TestMain",
             "request": "launch",
-            "mainClass": "com.smukkidi.polimorpism.unittestcompiletime.MainAreaCalculator",
+            "mainClass": "com.smukkiditest.TestMain",
             "projectName": "my-app"
         },
         {
             "type": "java",
-=======
-<<<<<<< HEAD
-            "name": "VariablesInJava",
+            "name": "TestMain",
             "request": "launch",
-            "mainClass": "com.smukkidi.javavariables.VariablesInJava",
-=======
->>>>>>> main
+            "mainClass": "com.smukkidi.lambdatest.TestMain",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "TestMain",
+            "request": "launch",
+            "mainClass": "test.java.com.smukkidi.lambdatest.TestMain",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "HelloWorldWriter",
             "request": "launch",
             "mainClass": "com.smukkidi.app.HelloWorldWriter",
@@ -41,7 +48,6 @@
             "name": "HelloworldWriter",
             "request": "launch",
             "mainClass": "com.smukkidi.app.HelloworldWriter",
->>>>>>> bff56781f895f07c14f27f9c7e513f0ab517a399
             "projectName": "my-app"
         },
         {
