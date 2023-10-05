@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+
             "name": "LargestNumberInArray",
             "request": "launch",
             "mainClass": "com.smukkidi.arrayprograms.LargestNumberInArray",
@@ -9,9 +10,30 @@
         },
         {
             "type": "java",
+
             "name": "LargestNumberInArray",
             "request": "launch",
             "mainClass": "main.java.com.smukkidi.arrayprograms.LargestNumberInArray",
+        },
+        {
+            "type": "java",
+            "name": "TestMain",
+            "request": "launch",
+            "mainClass": "com.smukkiditest.TestMain",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "TestMain",
+            "request": "launch",
+            "mainClass": "com.smukkidi.lambdatest.TestMain",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "TestMain",
+            "request": "launch",
+            "mainClass": "test.java.com.smukkidi.lambdatest.TestMain",
             "projectName": ""
         },
         {
