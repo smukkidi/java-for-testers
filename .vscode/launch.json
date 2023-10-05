@@ -10,93 +10,61 @@
         {
             "type": "java",
             "name": "Print2DArrayInMatrixStyle",
-            "request": "launch",
-            "mainClass": "com.smukkidi.print2darray.Print2DArrayInMatrixStyle",
+            "request": "launch",          "mainClass": "com.smukkidi.print2darray.Print2DArrayInMatrixStyle",
             "projectName": "my-app"
         },
         {
             "type": "java",
             "name": "Print2DArrayUsingForEachLoop",
-            "request": "launch",
-            "mainClass": "com.smukkidi.print2darray.Print2DArrayUsingForEachLoop",
+            "request": "launch",           "mainClass": "com.smukkidi.print2darray.Print2DArrayUsingForEachLoop",
             "projectName": "my-app"
         },
         {
             "type": "java",
             "name": "PrintTwoDArraySimpleTraversal",
-            "request": "launch",
-            "mainClass": "com.smukkidi.print2darray.PrintTwoDArraySimpleTraversal",
+            "request": "launch",           "mainClass": "com.smukkidi.print2darray.PrintTwoDArraySimpleTraversal",
             "projectName": "my-app"
         },
         {
             "type": "java",
             "name": "LargestNumberUsingCollection",
-            "request": "launch",
-            "mainClass": "com.smukkidi.arrayprograms.LargestNumberUsingCollection",
+            "request": "launch",         "mainClass": "com.smukkidi.arrayprograms.LargestNumberUsingCollection",
             "projectName": "my-app"
         },
         {
             "type": "java",
             "name": "LargestNumberWithoutUserdefinedFunction",
-            "request": "launch",
-            "mainClass": "com.smukkidi.arrayprograms.LargestNumberWithoutUserdefinedFunction",
+            "request": "launch",           "mainClass": "com.smukkidi.arrayprograms.LargestNumberWithoutUserdefinedFunction",
             "projectName": "my-app"
         },
         {
             "type": "java",
             "name": "LargestNumberUsingSorting",
-            "request": "launch",
-            "mainClass": "com.smukkidi.arrayprograms.LargestNumberUsingSorting",
+            "request": "launch", "mainClass": "com.smukkidi.arrayprograms.LargestNumberUsingSorting",
             "projectName": "my-app"
         },
         {
-            "type": "java",
-            "name": "MaxNumberUsingIterativeWay",
-            "request": "launch",
-            "mainClass": "com.smukkidi.arrayprograms.MaxNumberUsingIterativeWay",
+            "type": "java","name": "MaxNumberUsingIterativeWay",
+            "request": "launch",            "mainClass": "com.smukkidi.arrayprograms.MaxNumberUsingIterativeWay",
             "projectName": "my-app"
         },
         {
-            "type": "java",
-            "name": "MaxNumberUsingStream",
-            "request": "launch",
-            "mainClass": "com.smukkidi.arrayprograms.MaxNumberUsingStream",
+            "type": "java", "name": "MaxNumberUsingStream",
+            "request": "launch",            "mainClass": "com.smukkidi.arrayprograms.MaxNumberUsingStream",
             "projectName": "my-app"
         },
         {
             "type": "java",
 
             "name": "LargestNumberInArray",
-            "request": "launch",
-            "mainClass": "com.smukkidi.arrayprograms.LargestNumberInArray",
+            "request": "launch",           "mainClass": "com.smukkidi.arrayprograms.LargestNumberInArray",
             "projectName": "my-app"
         },
         {
             "type": "java",
-
             "name": "LargestNumberInArray",
             "request": "launch",
             "mainClass": "main.java.com.smukkidi.arrayprograms.LargestNumberInArray",
-        },
-        {
-            "type": "java",
-            "name": "TestMain",
-            "request": "launch",
-            "mainClass": "com.smukkiditest.TestMain",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "TestMain",
-            "request": "launch",
-            "mainClass": "com.smukkidi.lambdatest.TestMain",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "TestMain",
-            "request": "launch",
-            "mainClass": "test.java.com.smukkidi.lambdatest.TestMain",
             "projectName": ""
         },
         {

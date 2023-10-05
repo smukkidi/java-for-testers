@@ -1,4 +1,4 @@
-package com.smukkidi.arrayprograms;
+package com.smukkidi.largenumberinAraay;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.smukkidi.arrayprograms;
+package com.smukkidi.largenumberinAraay;
 
 public class MaxNumberUsingIterativeWay {
     public static void main(String[] args) {
