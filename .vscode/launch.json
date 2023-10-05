@@ -3,7 +3,15 @@
         {
             "type": "java",
 
-            "name": "LargestNumberInArray",
+            "name": "CountCharacters",
+            "request": "launch",
+            "mainClass": "com.smukkidi.stringInterview.CountCharacters",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWords",
+
             "request": "launch",
             "mainClass": "com.smukkidi.arrayprograms.LargestNumberInArray",
             "projectName": "my-app"
