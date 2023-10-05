@@ -3,17 +3,17 @@
         {
             "type": "java",
 
-            "name": "ReverseWords",
+            "name": "LargestNumberInArray",
             "request": "launch",
-            "mainClass": "com.smukkidi.stringInterview.ReverseWords",
+            "mainClass": "com.smukkidi.arrayprograms.LargestNumberInArray",
             "projectName": "my-app"
         },
         {
             "type": "java",
-            "name": "MultilineLambdaExpression",
+
+            "name": "LargestNumberInArray",
             "request": "launch",
-            "mainClass": "com.smukkiditest.MultilineLambdaExpression",
-            "projectName": "my-app"
+            "mainClass": "main.java.com.smukkidi.arrayprograms.LargestNumberInArray",
         },
         {
             "type": "java",
