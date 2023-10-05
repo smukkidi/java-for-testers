@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestNumberInArray",
+            "request": "launch",
+            "mainClass": "com.smukkidi.arrayprograms.LargestNumberInArray",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumberInArray",
+            "request": "launch",
+            "mainClass": "main.java.com.smukkidi.arrayprograms.LargestNumberInArray",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "HelloWorldWriter",
             "request": "launch",
             "mainClass": "com.smukkidi.app.HelloWorldWriter",
