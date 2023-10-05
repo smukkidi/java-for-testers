@@ -3,25 +3,26 @@
         {
             "type": "java",
 
-            "name": "CountCharacters",
+            "name": "o003_CommandLineArgument",
             "request": "launch",
-            "mainClass": "com.smukkidi.stringInterview.CountCharacters",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "ReverseWords",
-
-            "request": "launch",
-            "mainClass": "com.smukkidi.arrayprograms.LargestNumberInArray",
+            "mainClass": "com.javaprograms100.o003_CommandLineArgument",
             "projectName": "my-app"
         },
         {
             "type": "java",
 
-            "name": "LargestNumberInArray",
+            "name": "PrintIntegersOnetoTen",
             "request": "launch",
-            "mainClass": "main.java.com.smukkidi.arrayprograms.LargestNumberInArray",
+            "mainClass": "com.javaprograms100.PrintIntegersOnetoTen",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+
+            "name": "o001_HelloWorld",
+            "request": "launch",
+            "mainClass": "com.javaprograms100.o001_HelloWorld",
+
         },
         {
             "type": "java",
@@ -53,9 +54,10 @@
         },
         {
             "type": "java",
-            "name": "HelloworldWriter",
+
+            "name": "o001_HelloWorls",
             "request": "launch",
-            "mainClass": "com.smukkidi.app.HelloworldWriter",
+            "mainClass": "com.javaprograms100.o001_HelloWorls",
             "projectName": "my-app"
         },
         {
