@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "o006_Characters",
+            "request": "launch",
+            "mainClass": "com.javaprograms100.o006_Characters",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "o005_FlotingPointNumber",
             "request": "launch",
             "mainClass": "com.javaprograms100.o005_FlotingPointNumber",
