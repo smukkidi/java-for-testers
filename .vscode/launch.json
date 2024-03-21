@@ -2,7 +2,13 @@
     "configurations": [
         {
             "type": "java",
-
+            "name": "o004_Integer",
+            "request": "launch",
+            "mainClass": "com.javaprograms100.o004_Integer",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "o003_CommandLineArgument",
             "request": "launch",
             "mainClass": "com.javaprograms100.o003_CommandLineArgument",
@@ -10,7 +16,6 @@
         },
         {
             "type": "java",
-
             "name": "PrintIntegersOnetoTen",
             "request": "launch",
             "mainClass": "com.javaprograms100.PrintIntegersOnetoTen",
@@ -18,11 +23,9 @@
         },
         {
             "type": "java",
-
             "name": "o001_HelloWorld",
             "request": "launch",
-            "mainClass": "com.javaprograms100.o001_HelloWorld",
-
+            "mainClass": "com.javaprograms100.o001_HelloWorld"
         },
         {
             "type": "java",
@@ -54,7 +57,6 @@
         },
         {
             "type": "java",
-
             "name": "o001_HelloWorls",
             "request": "launch",
             "mainClass": "com.javaprograms100.o001_HelloWorls",
